@@ -5,4 +5,7 @@ __pycache__/
 .DS_Store
 
 # 临时/无效输出
-outputs/*.jpg
+outputs/animation_frames/
+SMPL_NEUTRAL.pkl
+__pycache__/
+*.pyc
