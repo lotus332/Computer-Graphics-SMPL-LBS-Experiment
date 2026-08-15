@@ -1,0 +1,8 @@
+SMPL_NEUTRAL.pkl
+
+__pycache__/
+*.pyc
+.DS_Store
+
+# 临时/无效输出
+outputs/*.jpg
